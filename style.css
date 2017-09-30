@@ -1,0 +1,19 @@
+body{
+    background-image:url(osman-rana-182134.jpg);
+    background-position:center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+p{
+    color: white;
+}
+
+.hello{
+    color: snow;
+}
+
+#bigger-text{
+    font-size: 36px;
+    color: whitesmoke;
+}
